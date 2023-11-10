@@ -1,0 +1,14 @@
+url(https://cdn.builder.io/api/v1/image/assets/TEMP/2082a15e-6568-45b7-b2c2-3431ec68022a?apiKey=b1bc1edbc623477fba63d23823d10a32&"class="aspect-[0.99] object-contain object-center w-full overflow-hidden mt-10 max-md:max-w-full" />
+) {
+    width: 100%;
+    margin: auto;
+    display: block;
+  }
+
+  img (loading="eager" srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/83baac1f-e704-479d-b36d-7e2ac3e19118?apiKey=b1bc1edbc623477fba63d23823d10a32&width=100 100w,)
+   {
+    width:100%
+    padding: auto;
+    margin: auto;
+    display:block;
+  }

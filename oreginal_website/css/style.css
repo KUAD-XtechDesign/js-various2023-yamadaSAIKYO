@@ -1,0 +1,64 @@
+#headder{
+    display: block;
+    text-align: center;
+    top: 0;
+    .wf-sawarabimincho { font-family: "Sawarabi Mincho"; }
+    .wf-sawarabigothic { font-family: "Sawarabi Gothic"; }
+    position: sticky;   
+    
+    .title{
+        color: aliceblue;
+        background-color: rgb(35, 35, 36);
+        font-size: 260%;
+        font-family: "ten-mincho";
+        width: 100%
+    }
+}
+#main{
+    text-align: center;
+    .wf-sawarabigothic { font-family: "Sawarabi Gothic"; }
+    
+}
+.site_ex{
+    color: aliceblue;
+    font-size: 110%;
+    font-family: "Sawarabi Gothic";
+}
+.name{
+    font-size: larger;
+    font-weight: bold;
+    font-family: "Sawarabi gothic";
+}
+
+
+.tnk{
+    color: rgba(10, 8, 24, 0.89);
+    font-weight:bolder;
+    width: 200px;
+    height:800px;
+    padding: auto;
+    margin: auto;
+    display:block;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 220%;
+    font-family:"ten-mincho"
+}
+.ex{
+    color:rgb(4, 52, 35);
+    font-weight: bold;
+    width: 600px;
+    height:260px;
+    padding: auto;
+    margin: auto;
+    display:block;
+    font-size: 160%;
+    font-family: "Sawarabi Gothic";
+}
+ body {
+    overflow-x: hidden;
+    background-image: url(https://i.pinimg.com/originals/a2/0f/9c/a20f9c23f7f652883dc9aaa700ab21db.gif);
+    background-size:1280px 720px ;
+    background-attachment: fixed;
+    background-repeat:no-repeat
+ }
